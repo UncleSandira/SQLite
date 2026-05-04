@@ -1,7 +1,7 @@
 import sqlite3
 
 DATABASE = 'Cars.db'
-
+print('hello world')
 
 def print_allcars():
     speed = input('What speed: ')
